@@ -1,0 +1,28 @@
+{
+  "name": "shubhraprakash-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "gray-matter": "^4.0.3",
+    "next": "11.1.2",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^6.7.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.2",
+    "tailwindcss": "^2.2.15"
+  },
+  "devDependencies": {
+    "date-fns": "^2.24.0",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
